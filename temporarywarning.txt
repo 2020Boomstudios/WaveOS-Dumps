@@ -1,0 +1,2 @@
+This dumping project is completly unfinished and  under the guard of TVX Media. this warning will be removed when the first full dump is added.
+the first dump to be released will not be the full dump due to some renderer issues.
